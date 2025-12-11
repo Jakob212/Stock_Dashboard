@@ -13,6 +13,7 @@ Backtesting-Engine.
 -   Balkendiagramme für verschiedene Metriken
 -   Vollständig interaktive Tabellen
 -   Backtesting mit Buy-the-Dip-Strategie
+-   Buy and hold, ema crossover, dca, macd momentum 12/1
 
 ## ▶️ Start
 
