@@ -44,3 +44,8 @@ def two_sum_sorted(nums, target):
         else:
             left += 1
     return False
+
+def max_subarray_sum(nums, k):
+    max_sum = 0
+    if sum(nums[0:k]) >= max_sum:
+        max_sum = sum(nums[0:k])
